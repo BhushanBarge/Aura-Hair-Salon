@@ -180,7 +180,7 @@ sup {
 }
 
 a {
-  color: #d4af37; 
+  color: #d4af37;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -8402,12 +8402,12 @@ header
 
 .btn-white {
   border-color: #000000;
-  background-color: #000000;
+  background-color: #fff;
   color: #000000;
 }
 .btn-white:hover,
 .btn-white:focus {
-  background-color: transparent;
+  background-color: #d4af37;
   color: #000000;
   cursor: pointer;
 }
@@ -8829,13 +8829,13 @@ section#contact ::-webkit-input-placeholder {
 section#contact :-moz-placeholder {
   font-weight: 700;
   color: #ced4da;
- 
+
   font-family: "Roboto", sans-serif;
 }
 section#contact ::-moz-placeholder {
   font-weight: 700;
   color: #ced4da;
-  
+
   font-family: "Roboto", sans-serif;
 }
 section#contact :-ms-input-placeholder {
